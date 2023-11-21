@@ -1,0 +1,245 @@
+ID,Product,Reported Date,Sell Date,Failure Type,Addressed,Usage
+1,HH-SPRAYER-ONEP,13 Sep 2020,19 Nov 2019,Right handle cracked or split,Provided new product,Contracter
+2,HH-SPRAYER-ONEP,09 Jun 2020,05 Sep 2018,Trigger cracked or split,Provided new product,Maintenance and Sanitation
+3,HH-SPRAYER-ONEP,22 Sep 2019,28 Mar 2019,Right handle cracked or split,None-problem or delay,Contracter
+4,HH-SPRAYER-ONEP,19 Mar 2021,04 Jul 2020,Assembly loose or misaligned,Provided new product,Agriculture
+5,HH-SPRAYER-ONEP,21 May 2020,08 Sep 2018,Left upper casing cracked or split,Provided new product,Maintenance and Sanitation
+6,HH-SPRAYER-ONEP,15 Mar 2019,27 Jan 2017,Battery disfunction,Provided new product,Maintenance and Sanitation
+7,HH-SPRAYER-ONEP,03 Feb 2020,17 Oct 2018,missing,Provided new product,Did not report
+8,HH-SPRAYER-ONEP,01 Dec 2017,06 Nov 2017,Assembly loose or misaligned,Provided new product,Did not report
+9,HH-SPRAYER-ONEP,20 Oct 2019,20 Oct 2019,Trigger loose or misaligned,Provided new product,Did not report
+10,HH-SPRAYER-ONEP,18 Jun 2021,28 Aug 2019,Trigger cracked or split,None-pending,Did not report
+11,HH-SPRAYER-ONEP,29 Mar 2021,25 Mar 2020,Right upper casing cracked or split,Provided new product,Maintenance and Sanitation
+12,HH-SPRAYER-ONEP,09 May 2022,14 Jul 2020,Electrical disfunction,Provided new product,Agriculture
+13,HH-SPRAYER-ONEP,23 Jan 2022,10 Nov 2020,Right handle cracked or split,None-pending,Contracter
+14,HH-SPRAYER-ONEP,14 Feb 2020,20 Aug 2018,Trigger cracked or split,Provided new product,Maintenance and Sanitation
+15,HH-SPRAYER-ONEP,01 Aug 2020,10 Feb 2019,Left handle cracked or split,Refunded purchase,Did not report
+16,HH-SPRAYER-ONEP,04 Aug 2021,07 Oct 2019,Battery disfunction,Refunded purchase,Did not report
+17,HH-SPRAYER-ONEP,11 Oct 2021,07 Jan 2020,Electrical disfunction,Provided new product,Did not report
+18,HH-SPRAYER-ONEP,11 Jul 2019,26 Dec 2017,Left upper casing cracked or split,Refunded purchase,Did not report
+19,HH-SPRAYER-ONEP,09 Oct 2020,06 May 2019,Left handle cracked or split,Refunded purchase,Did not report
+20,HH-SPRAYER-ONEP,12 Oct 2020,21 Jul 2018,Battery disfunction,Provided new product,Did not report
+21,HH-SPRAYER-ONEP,29 Oct 2017,07 Mar 2017,Right upper casing cracked or split,Provided new product,Did not report
+22,HH-SPRAYER-ONEP,16 Jan 2022,14 Nov 2020,Left upper casing cracked or split,Refunded purchase,Did not report
+23,HH-SPRAYER-ONEP,12 Nov 2022,18 Nov 2020,Trigger cracked or split,Refunded purchase,Agriculture
+24,HH-SPRAYER-ONEP,17 Jan 2018,28 Jan 2017,Right upper casing cracked or split,Provided new product,Contracter
+25,HH-SPRAYER-ONEP,07 Feb 2021,28 Apr 2019,Battery disfunction,Refunded purchase,Did not report
+26,HH-SPRAYER-ONEP,29 Aug 2019,25 Jun 2018,Left upper casing cracked or split,Provided new product,Did not report
+27,HH-SPRAYER-ONEP,05 Nov 2019,10 Oct 2017,Battery disfunction,Provided new product,Did not report
+28,HH-SPRAYER-ONEP,20 Nov 2021,03 Feb 2020,Electrical disfunction,Provided new product,Maintenance and Sanitation
+29,HH-SPRAYER-ONEP,08 Sep 2022,20 Oct 2020,Battery disfunction,Provided new product,Contracter
+30,HH-SPRAYER-ONEP,17 Feb 2020,14 Mar 2019,Trigger loose or misaligned,None-problem or delay,Did not report
+31,HH-SPRAYER-ONEP,23 Aug 2018,17 Jul 2017,Right upper casing cracked or split,Refunded purchase,Did not report
+32,HH-SPRAYER-ONEP,17 Jan 2019,01 May 2018,Right upper casing cracked or split,None-pending,Contracter
+33,HH-SPRAYER-ONEP,09 Sep 2022,19 May 2020,Battery disfunction,Refunded purchase,Did not report
+34,HH-SPRAYER-ONEP,22 May 2020,26 May 2019,Trigger cracked or split,Refunded purchase,Contracter
+35,HH-SPRAYER-ONEP,26 Dec 2020,25 Apr 2019,Battery disfunction,Provided new product,Contracter
+36,HH-SPRAYER-ONEP,06 Jan 2021,04 Sep 2020,Assembly loose or misaligned,Refunded purchase,Contracter
+37,HH-SPRAYER-ONEP,22 Oct 2018,22 Feb 2018,Trigger loose or misaligned,Refunded purchase,Maintenance and Sanitation
+38,HH-SPRAYER-ONEP,29 Jan 2020,17 Apr 2018,Battery disfunction,Provided new product,Contracter
+39,HH-SPRAYER-ONEP,25 Sep 2020,28 Jun 2019,Left handle cracked or split,Provided new product,Contracter
+40,HH-SPRAYER-ONEP,11 Jan 2022,11 Mar 2020,Left handle cracked or split,Provided new product,Did not report
+41,HH-SPRAYER-ONEP,25 Feb 2021,10 Feb 2019,Battery disfunction,Provided new product,Maintenance and Sanitation
+42,HH-SPRAYER-ONEP,23 Apr 2020,12 Nov 2018,Trigger cracked or split,Provided new product,Domestic
+43,HH-SPRAYER-ONEP,02 Sep 2021,01 Apr 2020,Right upper casing cracked or split,Provided new product,Contracter
+44,HH-SPRAYER-ONEP,30 Jan 2019,25 Nov 2017,Left handle cracked or split,None-pending,missing
+45,HH-SPRAYER-ONEP,20 Dec 2018,09 Oct 2017,Left upper casing cracked or split,Provided new product,Agriculture
+46,HH-SPRAYER-ONEP,24 Apr 2020,20 Jun 2019,Right handle cracked or split,Provided new product,Did not report
+47,HH-SPRAYER-ONEP,09 Aug 2019,06 Mar 2019,Trigger loose or misaligned,Provided new product,Contracter
+48,HH-SPRAYER-ONEP,16 Nov 2018,02 Feb 2017,Battery disfunction,Provided new product,Agriculture
+49,HH-SPRAYER-ONEP,12 Mar 2022,22 Apr 2020,Battery disfunction,Refunded purchase,Maintenance and Sanitation
+50,HH-SPRAYER-ONEP,27 Apr 2019,20 Feb 2017,Battery disfunction,Provided new product,Maintenance and Sanitation
+51,HH-SPRAYER-ONEP,07 Jul 2021,09 Mar 2020,Left handle cracked or split,Provided new product,Did not report
+52,HH-SPRAYER-ONEP,27 Nov 2021,03 Mar 2019,Battery disfunction,Provided new product,Contracter
+53,HH-SPRAYER-ONEP,09 Feb 2019,04 Jun 2018,Right upper casing cracked or split,Provided new product,missing
+54,HH-SPRAYER-ONEP,30 Jul 2021,10 Oct 2019,Battery disfunction,Provided new product,Domestic
+55,HH-SPRAYER-ONEP,02 Jan 2019,28 Dec 2017,Right upper casing cracked or split,Provided new product,Contracter
+56,HH-SPRAYER-ONEP,15 Feb 2021,12 Mar 2020,Right upper casing cracked or split,Refunded purchase,Contracter
+57,HH-SPRAYER-ONEP,28 Nov 2020,17 Jan 2019,Electrical disfunction,Provided new product,Maintenance and Sanitation
+58,HH-SPRAYER-ONEP,31 Jul 2021,16 Oct 2020,Right handle cracked or split,Provided new product,Did not report
+59,HH-SPRAYER-ONEP,11 Oct 2020,19 Mar 2020,Trigger loose or misaligned,Refunded purchase,Contracter
+60,HH-SPRAYER-ONEP,06 Oct 2020,05 Jul 2019,Battery disfunction,Provided new product,Contracter
+61,HH-SPRAYER-ONEP,15 Sep 2018,10 Feb 2017,Left upper casing cracked or split,Provided new product,Contracter
+62,HH-SPRAYER-ONEP,26 Jan 2021,24 Nov 2018,Trigger cracked or split,Provided new product,missing
+63,HH-SPRAYER-ONEP,11 Feb 2020,23 Jun 2019,Right upper casing cracked or split,None-problem or delay,Agriculture
+64,HH-SPRAYER-ONEP,06 Mar 2022,30 Aug 2020,Battery disfunction,Refunded purchase,Agriculture
+65,HH-SPRAYER-ONEP,06 Oct 2021,05 Nov 2019,Battery disfunction,Provided new product,Did not report
+66,HH-SPRAYER-ONEP,26 Nov 2020,02 Apr 2020,Right upper casing cracked or split,Provided new product,Domestic
+67,HH-SPRAYER-ONEP,08 Feb 2020,19 Feb 2019,Left handle cracked or split,Provided new product,Contracter
+68,HH-SPRAYER-ONEP,18 Dec 2018,15 Feb 2017,Battery disfunction,Provided new product,Contracter
+69,HH-SPRAYER-ONEP,31 Dec 2020,27 Mar 2019,Battery disfunction,Provided new product,Did not report
+70,HH-SPRAYER-ONEP,03 Jan 2020,01 Apr 2018,Trigger cracked or split,Provided new product,Contracter
+71,HH-SPRAYER-ONEP,20 Sep 2022,30 Sep 2020,Battery disfunction,Provided new product,missing
+72,HH-SPRAYER-ONEP,23 Oct 2018,13 Sep 2017,Left handle cracked or split,Provided new product,Maintenance and Sanitation
+73,HH-SPRAYER-ONEP,31 Mar 2020,19 Apr 2019,Left handle cracked or split,Refunded purchase,Contracter
+74,HH-SPRAYER-ONEP,31 Aug 2019,13 Sep 2017,Trigger cracked or split,Provided new product,Domestic
+75,HH-SPRAYER-ONEP,14 Jul 2020,21 May 2019,Battery disfunction,Provided new product,Contracter
+76,HH-SPRAYER-ONEP,11 Dec 2019,03 Sep 2017,Battery disfunction,Refunded purchase,Maintenance and Sanitation
+77,HH-SPRAYER-ONEP,27 Jun 2018,20 Jan 2017,Trigger cracked or split,Provided new product,Contracter
+78,HH-SPRAYER-ONEP,25 Apr 2018,16 Jan 2017,Right upper casing cracked or split,Provided new product,Contracter
+79,HH-SPRAYER-ONEP,28 Jul 2021,08 Jan 2020,Trigger cracked or split,Provided new product,Maintenance and Sanitation
+80,HH-SPRAYER-ONEP,24 Oct 2018,10 Jul 2017,Battery disfunction,Provided new product,Maintenance and Sanitation
+81,HH-SPRAYER-ONEP,20 Mar 2019,19 Oct 2018,Assembly loose or misaligned,Provided new product,Agriculture
+82,HH-SPRAYER-ONEP,17 Jul 2021,07 Aug 2019,Battery disfunction,Provided new product,Maintenance and Sanitation
+83,HH-SPRAYER-ONEP,26 May 2021,04 Jun 2020,Left handle cracked or split,Refunded purchase,Contracter
+84,HH-SPRAYER-ONEP,21 Oct 2019,01 Jun 2018,Battery disfunction,Refunded purchase,Maintenance and Sanitation
+85,HH-SPRAYER-ONEP,08 Oct 2018,09 Nov 2017,Right upper casing cracked or split,Provided new product,Did not report
+86,HH-SPRAYER-ONEP,16 Mar 2020,14 Mar 2020,Assembly loose or misaligned,None-pending,Maintenance and Sanitation
+87,HH-SPRAYER-ONEP,05 Feb 2020,21 Mar 2018,Trigger cracked or split,missing,Contracter
+88,HH-SPRAYER-ONEP,30 Sep 2021,26 Nov 2020,Right upper casing cracked or split,Provided new product,Did not report
+89,HH-SPRAYER-ONEP,10 Jul 2019,03 Oct 2017,Electrical disfunction,Refunded purchase,Maintenance and Sanitation
+90,HH-SPRAYER-ONEP,04 Dec 2019,23 May 2019,Trigger loose or misaligned,Provided new product,Maintenance and Sanitation
+91,HH-SPRAYER-ONEP,22 Mar 2021,05 May 2020,Left upper casing cracked or split,Provided new product,Agriculture
+92,HH-SPRAYER-ONEP,23 Feb 2020,15 Feb 2019,Right handle cracked or split,Provided new product,Contracter
+93,HH-SPRAYER-ONEP,30 Dec 2018,06 Jun 2018,Left handle cracked or split,None-problem or delay,Did not report
+94,HH-SPRAYER-ONEP,19 Nov 2018,07 Mar 2017,Trigger cracked or split,Refunded purchase,Did not report
+95,HH-SPRAYER-ONEP,08 Nov 2019,13 Nov 2017,Trigger cracked or split,Refunded purchase,Did not report
+96,HH-SPRAYER-ONEP,06 Jan 2021,28 Mar 2019,Battery disfunction,missing,Did not report
+97,HH-SPRAYER-ONEP,28 Mar 2022,26 Sep 2020,Left upper casing cracked or split,Refunded purchase,Maintenance and Sanitation
+98,HH-SPRAYER-ONEP,02 Jul 2021,31 Jan 2020,Right handle cracked or split,Refunded purchase,missing
+99,HH-SPRAYER-ONEP,03 Jan 2022,02 Aug 2020,Battery disfunction,Provided new product,Agriculture
+100,HH-SPRAYER-ONEP,02 Aug 2019,23 Feb 2018,Trigger cracked or split,Provided new product,Contracter
+101,HH-SPRAYER-ONEP,08 Apr 2021,24 Apr 2020,Right handle cracked or split,Provided new product,Contracter
+102,HH-SPRAYER-ONEP,27 Nov 2020,05 Jul 2019,Left handle cracked or split,Provided new product,Maintenance and Sanitation
+103,HH-SPRAYER-ONEP,13 Apr 2020,25 Sep 2018,Right upper casing cracked or split,Provided new product,Contracter
+104,HH-SPRAYER-ONEP,06 Mar 2019,10 Apr 2017,Battery disfunction,Provided new product,Agriculture
+105,HH-SPRAYER-ONEP,16 Feb 2021,21 Oct 2019,Left handle cracked or split,Refunded purchase,Did not report
+106,HH-SPRAYER-ONEP,28 Oct 2018,24 Apr 2017,Battery disfunction,Refunded purchase,Agriculture
+107,HH-SPRAYER-ONEP,04 May 2019,09 Jan 2018,Right handle cracked or split,None-pending,Agriculture
+108,HH-SPRAYER-ONEP,29 Jan 2022,05 Jun 2020,Trigger cracked or split,Provided new product,Did not report
+109,HH-SPRAYER-ONEP,20 Jun 2019,06 Mar 2018,Battery disfunction,Refunded purchase,Contracter
+110,HH-SPRAYER-ONEP,30 Apr 2021,11 Jan 2019,Battery disfunction,Provided new product,Maintenance and Sanitation
+111,HH-SPRAYER-ONEP,16 Nov 2018,16 Apr 2018,Right upper casing cracked or split,Provided new product,Domestic
+112,HH-SPRAYER-ONEP,11 Feb 2022,06 Dec 2020,Left handle cracked or split,Refunded purchase,Did not report
+113,HH-SPRAYER-ONEP,30 Mar 2020,25 Sep 2018,Battery disfunction,Provided new product,Agriculture
+114,HH-SPRAYER-ONEP,09 Jul 2020,06 Mar 2019,Left handle cracked or split,Provided new product,Contracter
+115,HH-SPRAYER-ONEP,11 Oct 2020,14 Oct 2018,Battery disfunction,Refunded purchase,Did not report
+116,HH-SPRAYER-ONEP,30 Jan 2020,01 Sep 2018,Left upper casing cracked or split,Provided new product,Contracter
+117,HH-SPRAYER-ONEP,16 Mar 2021,14 Nov 2019,Right upper casing cracked or split,Refunded purchase,Did not report
+118,HH-SPRAYER-ONEP,17 May 2019,28 Jun 2018,Right handle cracked or split,Refunded purchase,Maintenance and Sanitation
+119,HH-SPRAYER-ONEP,02 Nov 2017,06 Sep 2017,Trigger loose or misaligned,Provided new product,Contracter
+120,HH-SPRAYER-ONEP,04 Sep 2019,28 Dec 2018,Right handle cracked or split,Refunded purchase,Agriculture
+121,HH-SPRAYER-ONEP,04 Mar 2020,06 Jun 2019,Right handle cracked or split,Refunded purchase,Maintenance and Sanitation
+122,HH-SPRAYER-ONEP,05 Feb 2018,02 Jul 2017,Trigger loose or misaligned,Refunded purchase,Did not report
+123,HH-SPRAYER-ONEP,08 Jul 2019,07 Apr 2019,Trigger loose or misaligned,Refunded purchase,Maintenance and Sanitation
+124,HH-SPRAYER-ONEP,15 Dec 2021,12 Sep 2020,Trigger cracked or split,Provided new product,Contracter
+125,HH-SPRAYER-ONEP,30 Dec 2019,01 Jul 2019,Left upper casing cracked or split,Refunded purchase,Maintenance and Sanitation
+126,HH-SPRAYER-ONEP,03 Mar 2019,02 Oct 2017,Right handle cracked or split,Provided new product,Contracter
+127,HH-SPRAYER-ONEP,27 Aug 2020,31 Jul 2019,Left upper casing cracked or split,Provided new product,Contracter
+128,HH-SPRAYER-ONEP,28 Aug 2020,17 Jun 2018,Battery disfunction,Provided new product,Did not report
+129,HH-SPRAYER-ONEP,08 Sep 2018,05 Mar 2017,Battery disfunction,Provided new product,Did not report
+130,HH-SPRAYER-ONEP,10 Sep 2019,21 Sep 2017,Trigger cracked or split,Provided new product,Maintenance and Sanitation
+131,HH-SPRAYER-ONEP,22 Aug 2020,24 Dec 2018,missing,Provided new product,Maintenance and Sanitation
+132,HH-SPRAYER-ONEP,07 Dec 2020,18 Oct 2018,Trigger cracked or split,Provided new product,Did not report
+133,HH-SPRAYER-ONEP,13 Apr 2018,07 Feb 2017,Right handle cracked or split,Provided new product,Maintenance and Sanitation
+134,HH-SPRAYER-ONEP,04 Feb 2021,10 Feb 2020,Trigger cracked or split,Refunded purchase,Did not report
+135,HH-SPRAYER-ONEP,08 Jul 2019,01 Mar 2018,Battery disfunction,Provided new product,Maintenance and Sanitation
+136,HH-SPRAYER-ONEP,28 May 2018,11 Aug 2017,Left upper casing cracked or split,Provided new product,Contracter
+137,HH-SPRAYER-ONEP,26 May 2023,22 Dec 2020,Trigger cracked or split,Provided new product,Did not report
+138,HH-SPRAYER-ONEP,20 Apr 2020,26 May 2018,Trigger cracked or split,Refunded purchase,Contracter
+139,HH-SPRAYER-ONEP,30 Jun 2019,06 Jan 2018,Battery disfunction,Provided new product,Maintenance and Sanitation
+140,HH-SPRAYER-ONEP,19 Aug 2018,18 May 2017,Right upper casing cracked or split,Provided new product,Contracter
+141,HH-SPRAYER-ONEP,16 Mar 2022,01 Jul 2020,Left upper casing cracked or split,Provided new product,Contracter
+142,HH-SPRAYER-ONEP,16 Jun 2022,24 Nov 2020,Trigger cracked or split,Refunded purchase,Contracter
+143,HH-SPRAYER-ONEP,13 Oct 2021,04 Jan 2020,Battery disfunction,Provided new product,Contracter
+144,HH-SPRAYER-ONEP,03 Jan 2021,11 Oct 2019,Left upper casing cracked or split,Provided new product,Did not report
+145,HH-SPRAYER-ONEP,09 Sep 2018,10 Oct 2017,Right upper casing cracked or split,Provided new product,Maintenance and Sanitation
+146,HH-SPRAYER-ONEP,10 May 2021,23 May 2020,Right handle cracked or split,Refunded purchase,Agriculture
+147,HH-SPRAYER-ONEP,17 Aug 2018,16 Mar 2017,Battery disfunction,Refunded purchase,Did not report
+148,HH-SPRAYER-ONEP,11 May 2019,03 Jul 2017,Trigger cracked or split,Provided new product,Did not report
+149,HH-SPRAYER-ONEP,16 Sep 2022,11 Oct 2020,Battery disfunction,Refunded purchase,Contracter
+150,HH-SPRAYER-ONEP,10 Dec 2021,06 Oct 2020,Left handle cracked or split,Refunded purchase,Maintenance and Sanitation
+151,HH-SPRAYER-ONEP,06 Sep 2019,06 Jan 2018,Electrical disfunction,Provided new product,Agriculture
+152,HH-SPRAYER-ONEP,16 Mar 2019,16 Feb 2019,Trigger loose or misaligned,missing,Did not report
+153,HH-SPRAYER-ONEP,07 Dec 2019,25 Oct 2017,Battery disfunction,Provided new product,Contracter
+154,HH-SPRAYER-ONEP,29 Aug 2020,03 Jun 2020,Trigger loose or misaligned,Provided new product,Did not report
+155,HH-SPRAYER-ONEP,26 Dec 2017,16 Dec 2017,Trigger loose or misaligned,Refunded purchase,Domestic
+156,HH-SPRAYER-ONEP,23 Jul 2020,21 May 2019,Left handle cracked or split,Refunded purchase,Domestic
+157,HH-SPRAYER-ONEP,17 Aug 2019,09 Oct 2017,Trigger cracked or split,None-pending,Contracter
+158,HH-SPRAYER-ONEP,10 Jul 2021,03 Jun 2019,Battery disfunction,Provided new product,Maintenance and Sanitation
+159,HH-SPRAYER-ONEP,07 Sep 2018,05 Jul 2017,Right handle cracked or split,Refunded purchase,Did not report
+160,HH-SPRAYER-ONEP,21 Aug 2018,01 Feb 2017,Left handle cracked or split,None-pending,Contracter
+161,HH-SPRAYER-ONEP,07 Mar 2020,09 May 2019,Right handle cracked or split,Provided new product,Contracter
+162,HH-SPRAYER-ONEP,27 Sep 2018,16 Apr 2017,Nozzle cracked or split,Refunded purchase,Did not report
+163,HH-SPRAYER-ONEP,30 Jun 2020,14 Oct 2018,Trigger cracked or split,Refunded purchase,Maintenance and Sanitation
+164,HH-SPRAYER-ONEP,25 Apr 2018,09 Aug 2017,Trigger loose or misaligned,Provided new product,Did not report
+165,HH-SPRAYER-ONEP,13 Nov 2019,14 Apr 2018,Right handle cracked or split,Provided new product,Did not report
+166,HH-SPRAYER-ONEP,14 May 2019,30 Jun 2018,Left upper casing cracked or split,Refunded purchase,Contracter
+167,HH-SPRAYER-ONEP,14 Jan 2019,10 Dec 2017,Left upper casing cracked or split,Refunded purchase,Maintenance and Sanitation
+168,HH-SPRAYER-ONEP,29 Jul 2021,17 May 2020,Left handle cracked or split,Provided new product,Did not report
+169,HH-SPRAYER-ONEP,22 Apr 2022,30 Jul 2020,Trigger cracked or split,Provided new product,Maintenance and Sanitation
+170,HH-SPRAYER-ONEP,06 Jun 2019,21 Apr 2017,Battery disfunction,Refunded purchase,Contracter
+171,HH-SPRAYER-ONEP,15 Dec 2020,18 Jul 2019,Right upper casing cracked or split,None-problem or delay,Contracter
+172,HH-SPRAYER-ONEP,25 Sep 2019,20 Sep 2018,Right upper casing cracked or split,None-problem or delay,Contracter
+173,HH-SPRAYER-ONEP,23 Mar 2018,19 Apr 2017,Right upper casing cracked or split,Provided new product,Domestic
+174,HH-SPRAYER-ONEP,15 Mar 2019,07 Aug 2017,Battery disfunction,Refunded purchase,Contracter
+175,HH-SPRAYER-ONEP,23 Jun 2019,18 Jan 2018,Right handle cracked or split,Provided new product,Maintenance and Sanitation
+176,HH-SPRAYER-ONEP,08 Sep 2021,24 Nov 2020,Right handle cracked or split,Provided new product,Contracter
+177,HH-SPRAYER-ONEP,08 Oct 2018,29 Nov 2017,Left upper casing cracked or split,Refunded purchase,Maintenance and Sanitation
+178,HH-SPRAYER-ONEP,01 May 2021,23 Apr 2020,Right handle cracked or split,None-pending,Contracter
+179,HH-SPRAYER-ONEP,13 Dec 2019,07 Jan 2018,Trigger cracked or split,Refunded purchase,Did not report
+180,HH-SPRAYER-ONEP,12 Oct 2021,07 May 2020,Right upper casing cracked or split,Refunded purchase,Maintenance and Sanitation
+181,HH-SPRAYER-ONEP,03 Jan 2019,09 Apr 2017,Left handle cracked or split,Provided new product,Contracter
+182,HH-SPRAYER-ONEP,31 Mar 2019,13 Jul 2018,Right handle cracked or split,Provided new product,Maintenance and Sanitation
+183,HH-SPRAYER-ONEP,10 Sep 2019,10 Sep 2019,Trigger loose or misaligned,Provided new product,Did not report
+184,HH-SPRAYER-ONEP,09 Oct 2021,18 May 2020,Right upper casing cracked or split,Refunded purchase,Contracter
+185,HH-SPRAYER-ONEP,26 Sep 2020,08 Dec 2018,Battery disfunction,Provided new product,Contracter
+186,HH-SPRAYER-ONEP,28 Jan 2021,01 Nov 2020,Trigger loose or misaligned,Refunded purchase,Contracter
+187,HH-SPRAYER-ONEP,14 Aug 2018,14 Aug 2018,Assembly loose or misaligned,Provided new product,Agriculture
+188,HH-SPRAYER-ONEP,19 Jan 2020,25 May 2019,Assembly loose or misaligned,None-pending,Agriculture
+189,HH-SPRAYER-ONEP,02 Dec 2018,20 Jan 2018,Right upper casing cracked or split,Provided new product,Contracter
+190,HH-SPRAYER-ONEP,20 Sep 2019,23 Jul 2018,Left upper casing cracked or split,Provided new product,Contracter
+191,HH-SPRAYER-ONEP,06 Jul 2020,19 Sep 2019,Nozzle cracked or split,Refunded purchase,Agriculture
+192,HH-SPRAYER-ONEP,05 Mar 2021,02 Dec 2020,Trigger loose or misaligned,Refunded purchase,Contracter
+193,HH-SPRAYER-ONEP,10 Apr 2019,09 Feb 2018,Left upper casing cracked or split,Provided new product,Agriculture
+194,HH-SPRAYER-ONEP,22 Sep 2020,22 Sep 2020,Trigger loose or misaligned,Refunded purchase,Contracter
+195,HH-SPRAYER-ONEP,19 Oct 2022,02 Aug 2020,Battery disfunction,Provided new product,Did not report
+196,HH-SPRAYER-ONEP,03 Jan 2022,20 Nov 2020,missing,Provided new product,Contracter
+197,HH-SPRAYER-ONEP,09 Jun 2019,06 Jan 2018,Right handle cracked or split,Provided new product,Did not report
+198,HH-SPRAYER-ONEP,16 Nov 2021,16 Jul 2020,Left upper casing cracked or split,Provided new product,Contracter
+199,HH-SPRAYER-ONEP,11 Nov 2022,28 Nov 2020,Battery disfunction,Provided new product,Contracter
+200,HH-SPRAYER-ONEP,08 Oct 2020,28 Oct 2018,Electrical disfunction,Provided new product,Did not report
+201,HH-SPRAYER-ONEP,23 May 2020,09 Feb 2019,Right upper casing cracked or split,Provided new product,Agriculture
+202,HH-SPRAYER-ONEP,04 Feb 2022,02 Nov 2020,Battery disfunction,Provided new product,Did not report
+203,HH-SPRAYER-ONEP,13 Dec 2019,05 Jun 2018,Left handle cracked or split,Provided new product,Maintenance and Sanitation
+204,HH-SPRAYER-ONEP,12 Nov 2021,13 Jan 2020,Left upper casing cracked or split,Provided new product,Contracter
+205,HH-SPRAYER-ONEP,14 Jun 2019,26 Nov 2017,Left upper casing cracked or split,Refunded purchase,Agriculture
+206,HH-SPRAYER-ONEP,18 Sep 2021,09 Jul 2020,Right upper casing cracked or split,Provided new product,Contracter
+207,HH-SPRAYER-ONEP,10 Sep 2018,30 Aug 2017,Left upper casing cracked or split,Refunded purchase,Did not report
+208,HH-SPRAYER-ONEP,07 Oct 2017,20 Feb 2017,Trigger loose or misaligned,Provided new product,Did not report
+209,HH-SPRAYER-ONEP,29 Jun 2017,11 Mar 2017,Right upper casing cracked or split,Provided new product,Maintenance and Sanitation
+210,HH-SPRAYER-ONEP,21 Mar 2019,29 Jan 2018,Left handle cracked or split,Provided new product,Maintenance and Sanitation
+211,HH-SPRAYER-ONEP,01 Apr 2019,24 Feb 2018,Right handle cracked or split,missing,Did not report
+212,HH-SPRAYER-ONEP,25 Mar 2022,29 Sep 2020,Battery disfunction,Provided new product,Contracter
+213,HH-SPRAYER-ONEP,02 Feb 2022,16 Oct 2020,Right upper casing cracked or split,Provided new product,Domestic
+214,HH-SPRAYER-ONEP,10 Nov 2020,13 Jul 2019,Right upper casing cracked or split,Provided new product,Contracter
+215,HH-SPRAYER-ONEP,21 Jun 2019,10 Jan 2018,Battery disfunction,None-problem or delay,Did not report
+216,HH-SPRAYER-ONEP,21 Nov 2018,04 Dec 2017,Battery disfunction,Refunded purchase,Did not report
+217,HH-SPRAYER-ONEP,14 Dec 2021,26 May 2020,Battery disfunction,Provided new product,Did not report
+218,HH-SPRAYER-ONEP,12 May 2018,23 Jan 2017,Left handle cracked or split,Refunded purchase,Did not report
+219,HH-SPRAYER-ONEP,01 Dec 2018,04 Mar 2018,Left handle cracked or split,Provided new product,Maintenance and Sanitation
+220,HH-SPRAYER-ONEP,24 Jun 2018,16 Jan 2017,Right upper casing cracked or split,Provided new product,Did not report
+221,HH-SPRAYER-ONEP,19 Jul 2022,23 Mar 2020,Battery disfunction,Refunded purchase,missing
+222,HH-SPRAYER-ONEP,13 Dec 2020,10 Jan 2019,Trigger cracked or split,Refunded purchase,Contracter
+223,HH-SPRAYER-ONEP,12 Jul 2019,16 Feb 2018,Battery disfunction,Provided new product,Contracter
+224,HH-SPRAYER-ONEP,13 Sep 2018,28 Apr 2017,Battery disfunction,missing,Contracter
+225,HH-SPRAYER-ONEP,07 Jun 2017,07 Jun 2017,Assembly loose or misaligned,Provided new product,Contracter
+226,HH-SPRAYER-ONEP,14 Oct 2018,04 Oct 2017,Assembly loose or misaligned,Refunded purchase,Contracter
+227,HH-SPRAYER-ONEP,27 Oct 2019,25 Feb 2018,Electrical disfunction,Refunded purchase,Did not report
+228,HH-SPRAYER-ONEP,21 Jul 2022,06 Oct 2020,missing,Refunded purchase,missing
+229,HH-SPRAYER-ONEP,14 Aug 2018,10 Feb 2017,Battery disfunction,Provided new product,Did not report
+230,HH-SPRAYER-ONEP,17 Apr 2017,24 Feb 2017,Trigger loose or misaligned,Refunded purchase,Agriculture
+231,HH-SPRAYER-ONEP,16 May 2021,23 Aug 2019,Battery disfunction,Provided new product,Agriculture
+232,HH-SPRAYER-ONEP,03 Jun 2020,13 Mar 2019,Left handle cracked or split,Provided new product,Maintenance and Sanitation
+233,HH-SPRAYER-ONEP,30 Jan 2018,23 Jun 2017,Assembly loose or misaligned,Provided new product,Did not report
+234,HH-SPRAYER-ONEP,05 Oct 2021,02 Jun 2020,Right upper casing cracked or split,Provided new product,Maintenance and Sanitation
+235,HH-SPRAYER-ONEP,21 Feb 2018,05 Dec 2017,Trigger loose or misaligned,None-problem or delay,Did not report
+236,HH-SPRAYER-ONEP,05 Jan 2020,28 Apr 2018,Electrical disfunction,Provided new product,Did not report
+237,HH-SPRAYER-ONEP,10 Jul 2022,08 Oct 2020,Battery disfunction,Refunded purchase,Maintenance and Sanitation
+238,HH-SPRAYER-ONEP,17 Jul 2021,27 Apr 2020,Right upper casing cracked or split,Refunded purchase,Contracter
+239,HH-SPRAYER-ONEP,05 Apr 2022,12 Aug 2020,Electrical disfunction,Provided new product,Did not report
+240,HH-SPRAYER-ONEP,08 Oct 2020,12 Feb 2020,Right upper casing cracked or split,None-problem or delay,Maintenance and Sanitation
+241,HH-SPRAYER-ONEP,13 May 2019,05 Mar 2017,Battery disfunction,missing,Agriculture
+242,HH-SPRAYER-ONEP,03 Oct 2021,21 Sep 2020,Right handle cracked or split,None-problem or delay,Did not report
+243,HH-SPRAYER-ONEP,02 Nov 2020,07 Apr 2019,Electrical disfunction,Provided new product,Did not report
+244,HH-SPRAYER-ONEP,18 Apr 2020,04 Jan 2019,Battery disfunction,Refunded purchase,Contracter
